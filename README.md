@@ -10,9 +10,11 @@ Modules
 3)Customer Billing
 
 Module 1
+
 ![image](https://user-images.githubusercontent.com/105651923/222505750-35ddb7ad-1b23-44c1-9cea-53d3dfb32f91.png)
 
 Module 2- Administrator
+
 *Add New Product-
 This is where you can add new product by entering the product name, price and quantity.
 *Display -
