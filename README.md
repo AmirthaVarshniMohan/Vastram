@@ -28,7 +28,7 @@ In this menu you can remove a certain product by entering the name of product.
 *View Log- 
 In this menu you can see the log details.
 
-![image](https://user-images.githubusercontent.com/105651923/222506277-848a3599-f07c-44cb-b4d6-0e83353884da.png)
+![image](https://user-images.githubusercontent.com/105651923/222506912-de9bce25-c38b-4441-b6aa-620d589db802.png)
 
 
 Module 3- Product display and billing
